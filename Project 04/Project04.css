@@ -1,0 +1,95 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 300px;
+}
+
+.main{
+    background-color: hsl(244, 38%, 16%);
+    color: white;
+    width: 400px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    font-family: "Inter";
+    font-size: 15px;
+    
+    
+
+}
+
+h1{
+    padding-right: 50px;
+}
+
+b{
+    color:hsl(277, 64%, 61%) ;
+}
+
+p{
+    font-size: 13px;
+    color: hsla(0, 0%, 100%, 0.6);
+    padding-right: 90px;
+    
+}
+
+
+
+.firstdiv{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    right: 50px;
+    padding-top: 30px;
+    color: white;
+    font-weight: bold;
+
+    
+}
+
+.seconddiv{
+    display: flex;
+    justify-content: space-around;
+    font-family: "Lexend Deca";
+    font-size: 10px;
+    padding-top: 8px;
+    color: hsla(0, 0%, 100%, 0.6);
+    padding-bottom: 20px;
+}
+
+.second{
+    position: relative;
+    right: 40px;
+}
+
+.third{
+    position: relative;
+    right: 45px;
+}
+
+.fourth{
+    position: relative;
+    right: 58px;
+}
+   
+img{
+    height: 100%;
+    width: 400px;
+    object-fit: cover;
+    opacity: 0.6;
+
+    
+}
+
+.imgg{
+    
+    overflow: hidden;
+    background-color: hsl(277, 97%, 36%);
+}
+
+
+
